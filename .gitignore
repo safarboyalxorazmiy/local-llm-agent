@@ -1,0 +1,7 @@
+venv/
+browser-profile/
+__pycache__/
+*.pyc
+*.bak
+*.log
+lca_preview.png
